@@ -1,0 +1,23 @@
+{
+  "name": "mymod",
+  "version": "1.0.0",
+  "description": "first time, pleassssse work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Gregory Quach",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.12.3",
+    "mongodb": "^3.6.0",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "swagger-ui": "^3.31.1",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
