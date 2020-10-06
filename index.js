@@ -1,14 +1,9 @@
 console.log(process.platform);
 console.log(process.env.USER);
 
-/*
-//comment off the 2 code chunks above idk how promises work
-const{ readFile } = require('fs').promises;
-async function hello() {
-    const file = await readFile('./hello.txt', 'utf8');
-}
-*/
-
+/*deleted part here
+see if appears in github*/
+var one = 1;
 var express = require('express');
 var app = express();
 var swaggerUi = require('swagger-ui-express');
