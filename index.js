@@ -3,7 +3,7 @@ console.log(process.env.USER);
 
 /*deleted part here
 see if appears in github*/
-var one = 1;
+
 var express = require('express');
 var app = express();
 var swaggerUi = require('swagger-ui-express');
